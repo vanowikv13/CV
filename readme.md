@@ -1,6 +1,6 @@
-# My knowledge with some technology
+# Skils and Knowledge
 
-## DevOps and Algorithm knowledge
+## Menu
 ![MENU](https://github.com/vanowikv13/CV/blob/master/menu.png)
 
 ## DevOps and Algorithm knowledge
