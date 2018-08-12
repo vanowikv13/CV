@@ -1,6 +1,9 @@
 # My knowledge with some technology
 
 ## DevOps and Algorithm knowledge
+![MENU](https://github.com/vanowikv13/CV/blob/master/menu.png)
+
+## DevOps and Algorithm knowledge
 ![DevOps](https://github.com/vanowikv13/CV/blob/master/devops.png)
 
 ## Web development and databases knowledge
